@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://loquacious-dusk-0ad61f.netlify.app">
+    <a href="https://avidadfleur.github.io/my-gallery/">
       Solution
     </a>
     <span> | </span>
@@ -67,5 +67,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@avidadfleur](https://{github.com/avidadfleur})
-- Twitter [@laviedefleur](https://{twitter.com/laviedefleur})
+- GitHub [@avidadfleur](https://github.com/avidadfleur)
+- Twitter [@laviedefleur](https://twitter.com/laviedefleur)
